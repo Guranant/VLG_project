@@ -1,10 +1,6 @@
 # CollegiateDataClub: Optimizing Data Processing and Analysis
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cascadedgaze-efficiency-in-global-context/image-denoising-on-sidd)](https://paperswithcode.com/sota/image-denoising-on-sidd?p=cascadedgaze-efficiency-in-global-context)
 
-<p align="center">
-<img src=/Visuals/denoising_output.png width=70%>
-</p>
 
 The official PyTorch implementation of the paper
 > [CollegiateDataClub: Optimizing Data Processing and Analysis](https://arxiv.org/abs/2401.15235) \
